@@ -149,7 +149,7 @@ set laststatus=2
 
 "Set the color scheme. Change this to your preference. 
 "Here's 100 to choose from: http://www.vim.org/scripts/script.php?script_id=625
-colorscheme wombat256mod 
+colorscheme solarized 
 
 "Set font type and size. Depends on the resolution. Larger screens, prefer h15
 set guifont=Courier\ New:h10
